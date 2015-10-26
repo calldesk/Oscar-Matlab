@@ -5,12 +5,12 @@ This is the Matlab client for Oscar.
 
 Install
 -------
+	pip install git+git://github.com/sensout/Oscar-Python.git
 
-	Idéalement, une install en 1 ou 2 lignes directement depuis github.
+	Download Oscar.m from https://github.com/sensout/Oscar-Matlab/Oscar/Oscar.m
+	and add it to your MATLAB path
 
 Usage
 -----
 
-Read the [docs](http://oscar.sensout.com/documentation.html) and have a look at [exemple.lua](https://github.com/sensout/Oscar-Lua/blob/master/example.lua).
-
-TODO: Example Matlab à créer et changer le lien.
+Read the [docs](http://oscar.sensout.com/documentation.html) and have a look at [exemple.m](https://github.com/sensout/Oscar-Matlab/example.m).
