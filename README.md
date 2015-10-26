@@ -7,7 +7,7 @@ Install
 -------
 	pip install git+git://github.com/sensout/Oscar-Python.git
 
-	Download [Oscar.m](https://github.com/sensout/Oscar-Matlab/Oscar/Oscar.m)
+	Download Oscar.m from https://github.com/sensout/Oscar-Matlab/Oscar/Oscar.m
 	and add it to your MATLAB path
 
 Usage
