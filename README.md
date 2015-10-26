@@ -6,7 +6,9 @@ This is the Matlab client for Oscar.
 Install
 -------
 	pip install git+git://github.com/sensout/Oscar-Python.git
-	download Oscar.m from https://github.com/sensout/Oscar-Matlab/Oscar/Oscar.m
+
+	Download [Oscar.m](https://github.com/sensout/Oscar-Matlab/Oscar/Oscar.m)
+	and add it to your MATLAB path
 
 Usage
 -----
